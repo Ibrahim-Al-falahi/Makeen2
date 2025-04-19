@@ -10,11 +10,14 @@ namespace Day1
 
             int count = 0;
 
+            //get max value from the list
             int max = number.Max();
+            //sort the list Desc
             number.Sort((a, b) => b.CompareTo(a));
 
             for (int i = 0; i < number.Count; i++)
             {
+                //since we have Desc order of the list we can count highest numbers first and ignore the rest of it, and break the loop of faster results
                 if (max == number[i])
                 {
                     count++;
