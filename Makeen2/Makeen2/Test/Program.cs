@@ -1,4 +1,6 @@
-﻿namespace Test
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace Test
 {
     internal class Program
     {
@@ -154,7 +156,7 @@
 
             //Console.Write("Your Order Summary: "+result+ " \n Total Cost: "+price+ "\n Thank you for ordering!");
 
-            
+
 
             //for (int i = 1; i <= 100; i++)
             //{
@@ -171,8 +173,46 @@
             //    {
             //        Console.WriteLine("this is prefect number: "+i);
             //    }
-                
+
             //}
+
+            int a = 100;
+            bool b = true;
+
+            static void Withdraw(ref int number)
+            {
+                number -= 5;
+            }
+
+            static void Transfare(ref int number)
+            {
+                number -= 10;
+            }
+
+            while (b)
+            {
+                Console.WriteLine("Choose \n 1-Check amount \n 2-Withdraw \n 3-Transfare");
+                string input=Console.ReadLine();
+
+                switch (input)
+                {
+                    case "1":
+                        Console.WriteLine(a);
+                        break;
+                    case "2":
+                        Withdraw(ref a);
+                        Console.WriteLine(a);
+                        break;
+                    case "3":
+                        Transfare(ref a);
+                        Console.WriteLine(a);
+                        break;
+                    default:
+                        b = false;
+                        break;
+                }
+            }
+
 
         }
     }
