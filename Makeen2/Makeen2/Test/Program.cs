@@ -6,7 +6,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-
+            
             //string name = Console.ReadLine();
             //string result = name != "" ? name : "Null";
 
@@ -176,44 +176,191 @@ namespace Test
 
             //}
 
-            int a = 100;
-            bool b = true;
+            //int a = 100;
+            //bool b = true;
 
-            static void Withdraw(ref int number)
-            {
-                number -= 5;
-            }
+            //static void Withdraw(ref int number)
+            //{
+            //    number -= 5;
+            //}
 
-            static void Transfare(ref int number)
-            {
-                number -= 10;
-            }
+            //static void Transfare(ref int number)
+            //{
+            //    number -= 10;
+            //}
 
-            while (b)
-            {
-                Console.WriteLine("Choose \n 1-Check amount \n 2-Withdraw \n 3-Transfare");
-                string input=Console.ReadLine();
+            //while (b)
+            //{
+            //    Console.WriteLine("Choose \n 1-Check amount \n 2-Withdraw \n 3-Transfare");
+            //    string input=Console.ReadLine();
 
-                switch (input)
-                {
-                    case "1":
-                        Console.WriteLine(a);
-                        break;
-                    case "2":
-                        Withdraw(ref a);
-                        Console.WriteLine(a);
-                        break;
-                    case "3":
-                        Transfare(ref a);
-                        Console.WriteLine(a);
-                        break;
-                    default:
-                        b = false;
-                        break;
-                }
-            }
+            //    switch (input)
+            //    {
+            //        case "1":
+            //            Console.WriteLine(a);
+            //            break;
+            //        case "2":
+            //            Withdraw(ref a);
+            //            Console.WriteLine(a);
+            //            break;
+            //        case "3":
+            //            Transfare(ref a);
+            //            Console.WriteLine(a);
+            //            break;
+            //        default:
+            //            b = false;
+            //            break;
+            //    }
+            //}
 
+            //Rectangle r = new Rectangle(5, 6, "Red");
 
+            //r.area();
+            //r.getInfo();
+
+           Coffee coffee = new Coffee();
+
+            coffee.display_menu();
+            coffee.display_order_summary();
+            
         }
+    }
+
+    public class Rectangle
+    {
+
+        public int width;
+        public int height;
+        public string color;
+
+        public Rectangle(int width, int height, string color)
+        {
+            this.width = width;
+            this.height = height;
+            this.color = color;
+        }
+        public void area()
+        {
+            Console.WriteLine( width * height);
+            
+        }
+        
+        public void getInfo()
+        {
+            Console.WriteLine("this a "+color+ " Rectangle");
+        }
+    }
+
+    class Coffee
+    {
+        public string name { get; set; }
+        public string size { get; set; }
+        public double price { get; set; }
+        public string Milk { get; set; }
+        public string Sugar { get; set; }
+
+        public Coffee()
+        {
+            
+        }
+
+        
+
+        public void display_menu()
+        {
+            Console.Write("Welcome to the Coffee Shop \n Menu: \n 1.Americano - 2.50 \n 2.Latte - 3.00 \n 3.Cappuccino - 3.50 \n ");
+            Console.Write("\nCustomizations: \n 1.Small - 0.50\n 2.Medium - 1.00 \n 3.Large - 1.50\n  ");
+        }
+        public string place_order()
+        {
+            string result = "";
+
+            Console.Write("\nWhich Coffee do you want? (1-3): ");
+            string coffee_input = Console.ReadLine();
+
+            if (coffee_input == "1")
+            {
+                name = "Americano";
+                
+            }
+            else if (coffee_input == "2")
+            {
+                name = "Latte";
+            }
+            else
+            {
+                name = "Cappuccino";
+            }
+            result += name;
+
+            Console.Write("\nWhich size would you like? (1-3): ");
+            string size_input = Console.ReadLine();
+
+            if (size_input == "1")
+            {
+                size = "S";
+            }
+            else if (size_input == "2")
+            {
+                size = "M";
+            }
+            else
+            {
+                size = "L";
+            }
+            result += " ("+size+") size ";
+
+            Console.Write("\nDo you want sugar? (yes/no): ");
+            Sugar = Console.ReadLine();
+
+            if (Sugar.ToLower() == "yes")
+            {
+                result += "with sugar ";
+            }
+
+            Console.Write("\nDo you want milk? (yes/no): ");
+            Milk = Console.ReadLine();
+
+            if (Milk.ToLower() == "yes")
+            {
+                result += "and milk ";
+            }
+            return result;
+        }
+        public double calculate_cost()
+        {
+            if(name== "Americano")
+            {
+                price = 2.5;
+            }
+            else if(name== "Latte")
+            {
+                price = 3.0;
+            }
+            else
+            {
+                price = 3.5;
+            }
+
+            if (size == "L")
+            {
+                price += 1.5;
+            }
+            else if (size == "M")
+            {
+                price += 1.0;
+            }
+            else
+            {
+                price += 0.5;
+            }
+            return price;
+        }
+        public void display_order_summary()
+        {
+            Console.Write("\nYour Order Summary: " + place_order() + " \n Total Cost: " + calculate_cost() + "\n Thank you for ordering!");
+        }
+
+
     }
 }
