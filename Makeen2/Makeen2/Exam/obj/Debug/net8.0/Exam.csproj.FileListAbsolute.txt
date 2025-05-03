@@ -1,0 +1,15 @@
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\bin\Debug\net8.0\Exam.exe
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\bin\Debug\net8.0\Exam.deps.json
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\bin\Debug\net8.0\Exam.runtimeconfig.json
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\bin\Debug\net8.0\Exam.dll
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\bin\Debug\net8.0\Exam.pdb
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\obj\Debug\net8.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\obj\Debug\net8.0\Exam.AssemblyInfoInputs.cache
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\obj\Debug\net8.0\Exam.AssemblyInfo.cs
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\obj\Debug\net8.0\Exam.csproj.CoreCompileInputs.cache
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\obj\Debug\net8.0\Exam.sourcelink.json
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\obj\Debug\net8.0\Exam.dll
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\obj\Debug\net8.0\refint\Exam.dll
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\obj\Debug\net8.0\Exam.pdb
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\obj\Debug\net8.0\Exam.genruntimeconfig.cache
+D:\Web projects\Makeen2\Makeen2\Makeen2\Exam\obj\Debug\net8.0\ref\Exam.dll

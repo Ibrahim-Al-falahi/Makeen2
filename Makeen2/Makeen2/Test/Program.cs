@@ -251,6 +251,10 @@ namespace Test
         }
     }
 
+    public interface Ipay
+    {
+        public bool pay();
+    }
     class Coffee
     {
         public string name { get; set; }
@@ -361,6 +365,6 @@ namespace Test
             Console.Write("\nYour Order Summary: " + place_order() + " \n Total Cost: " + calculate_cost() + "\n Thank you for ordering!");
         }
 
-
+        
     }
 }

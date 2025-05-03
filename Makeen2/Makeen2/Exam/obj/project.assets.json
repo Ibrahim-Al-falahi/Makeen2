@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\Mr Alfa X\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Exam\\Exam.csproj",
+      "projectName": "Exam",
+      "projectPath": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Exam\\Exam.csproj",
       "packagesPath": "C:\\Users\\Mr Alfa X\\.nuget\\packages\\",
-      "outputPath": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\WinFormsApp1\\obj\\",
+      "outputPath": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Exam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,15 +28,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0-windows"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -52,8 +52,8 @@
       }
     },
     "frameworks": {
-      "net8.0-windows7.0": {
-        "targetAlias": "net8.0-windows",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -68,9 +68,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
