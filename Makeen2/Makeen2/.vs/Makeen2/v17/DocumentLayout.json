@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{799EBF83-36EF-4204-B23A-255600C605FB}|Exam\\Exam.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{799EBF83-36EF-4204-B23A-255600C605FB}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ACD0031-0D80-45F5-920F-EAC81CD427E7}|Day6\\Day6.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACD0031-0D80-45F5-920F-EAC81CD427E7}|Day6\\Day6.csproj|solutionrelative:day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Exam\\Program.cs",
-              "RelativeDocumentMoniker": "Exam\\Program.cs",
-              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Exam\\Program.cs",
-              "RelativeToolTip": "Exam\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCoAAAAuAAAA",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Day6\\Program.cs",
+              "RelativeDocumentMoniker": "Day6\\Program.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Day6\\Program.cs",
+              "RelativeToolTip": "Day6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:12:57.019Z",
+              "WhenOpened": "2025-05-03T05:55:53.598Z",
               "EditorCaption": ""
             }
           ]
