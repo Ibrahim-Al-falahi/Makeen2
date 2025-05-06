@@ -1,4 +1,5 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using System.Collections.Generic;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Test
 {
@@ -6,11 +7,13 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            
+
+            #region check string
             //string name = Console.ReadLine();
             //string result = name != "" ? name : "Null";
 
-            //Console.WriteLine("the name is " + result);
+            //Console.WriteLine("the name is " + result); 
+            #endregion
 
             //int x = 3;
             //x++;
@@ -192,7 +195,7 @@ namespace Test
             //while (b)
             //{
             //    Console.WriteLine("Choose \n 1-Check amount \n 2-Withdraw \n 3-Transfare");
-            //    string input=Console.ReadLine();
+            //    string input = Console.ReadLine();
 
             //    switch (input)
             //    {
@@ -218,153 +221,350 @@ namespace Test
             //r.area();
             //r.getInfo();
 
-           Coffee coffee = new Coffee();
+            //Coffee coffee = new Coffee();
 
-            coffee.display_menu();
-            coffee.display_order_summary();
-            
-        }
-    }
+            //coffee.display_menu();
+            //coffee.display_order_summary();
 
-    public class Rectangle
-    {
 
-        public int width;
-        public int height;
-        public string color;
+            //string[] usernames = { "ahmed", "yaser", "muzna" };
+            //string[] passwords = { "ah123", "ya123", "mu123" };
+            //double[] balances = { 1000.0, 500.0, 750.0 };
 
-        public Rectangle(int width, int height, string color)
-        {
-            this.width = width;
-            this.height = height;
-            this.color = color;
-        }
-        public void area()
-        {
-            Console.WriteLine( width * height);
-            
-        }
-        
-        public void getInfo()
-        {
-            Console.WriteLine("this a "+color+ " Rectangle");
-        }
-    }
+            //bool IsValid = true;
+            //int index = 0;
 
-    public interface Ipay
-    {
-        public bool pay();
-    }
-    class Coffee
-    {
-        public string name { get; set; }
-        public string size { get; set; }
-        public double price { get; set; }
-        public string Milk { get; set; }
-        public string Sugar { get; set; }
+            //Console.WriteLine("Welcome to Simple Bank ");
 
-        public Coffee()
-        {
-            
-        }
+            //// Login loop
+            //while (IsValid)
+            //{
+            //    Console.Write("Enter username: ");
+            //    string inputUser = Console.ReadLine();
+            //    Console.Write("Enter password: ");
+            //    string inputPass = Console.ReadLine();
 
-        
+            //    for (int i = 0; i < usernames.Length; i++)
+            //    {
+            //        if (usernames[i] == inputUser && passwords[i] == inputPass)
+            //        {
+            //            index = i;
 
-        public void display_menu()
-        {
-            Console.Write("Welcome to the Coffee Shop \n Menu: \n 1.Americano - 2.50 \n 2.Latte - 3.00 \n 3.Cappuccino - 3.50 \n ");
-            Console.Write("\nCustomizations: \n 1.Small - 0.50\n 2.Medium - 1.00 \n 3.Large - 1.50\n  ");
-        }
-        public string place_order()
-        {
-            string result = "";
+            //            int choice;
+            //            do
+            //            {
+            //                Console.WriteLine("\n Main Menu ");
+            //                Console.WriteLine("1) Check Balance");
+            //                Console.WriteLine("2) Deposit");
+            //                Console.WriteLine("3) Withdraw");
+            //                Console.WriteLine("4) Transfer");
+            //                Console.WriteLine("5) Exit");
+            //                Console.WriteLine("Enter your choice: ");
 
-            Console.Write("\nWhich Coffee do you want? (1-3): ");
-            string coffee_input = Console.ReadLine();
+            //                choice = int.Parse(Console.ReadLine());
 
-            if (coffee_input == "1")
-            {
-                name = "Americano";
+
+            //                switch (choice)
+            //                {
+            //                    case 1:
+            //                        Console.WriteLine("Your balance is: $" + balances[index]);
+            //                        break;
+
+            //                    case 2:
+            //                        Console.Write("Enter amount to deposit: ");
+            //                        double deposit = double.Parse(Console.ReadLine());
+            //                        if (deposit > 0)
+            //                        {
+            //                            balances[index] += deposit;
+            //                            Console.WriteLine("Deposited successfully.");
+            //                        }
+            //                        else
+            //                        {
+            //                            Console.WriteLine("Invalid amount.");
+            //                        }
+            //                        break;
+
+            //                    case 3:
+            //                        Console.Write("Enter amount to withdraw: ");
+            //                        double withdraw = double.Parse(Console.ReadLine());
+            //                        if ( withdraw > 0)
+            //                        {
+            //                            if (withdraw <= balances[index])
+            //                            {
+            //                                balances[index] -= withdraw;
+            //                                Console.WriteLine("Withdrawn successfully.");
+            //                            }
+            //                            else
+            //                            {
+            //                                Console.WriteLine("Insufficient funds.");
+            //                            }
+            //                        }
+            //                        else
+            //                        {
+            //                            Console.WriteLine("Invalid amount.");
+            //                        }
+            //                        break;
+
+            //                    case 4:
+            //                        Console.Write("Enter amount to transfer: ");
+            //                        double transfer = double.Parse(Console.ReadLine());
+            //                        if ( transfer > 0)
+            //                        {
+            //                            if (transfer <= balances[index])
+            //                            {
+            //                                balances[index] -= transfer;
+            //                                Console.WriteLine("Transfer successfully.");
+            //                            }
+            //                            else
+            //                            {
+            //                                Console.WriteLine("Insufficient funds.");
+            //                            }
+            //                        }
+            //                        else
+            //                        {
+            //                            Console.WriteLine("Invalid amount.");
+            //                        }
+            //                        break;
+
+            //                    case 5:
+            //                        Console.WriteLine("Thank you for using Simple Bank!");
+            //                        IsValid = false;
+            //                        break;
+
+            //                    default:
+            //                        Console.WriteLine("Invalid choice. Try again.");
+            //                        break;
+            //                }
+
+            //            } while (choice != 5);
+
+            //            break;
+            //        }
+
+            //    }
+            //    if (IsValid)
+            //    {
+            //        Console.WriteLine("Invalid username or password. Try again.\n");
+            //    }
+
+
+            //}
+
+            //string[] product = { "cable", "laptop", "camera" };
+            //int[] quantity = { 5, 13, 2 };
+            //bool quit=true;
+
+            //string target;
+            //int uquantity;
+
+            //while (quit)
+            //{
+
+            //    Console.WriteLine("\n\n========================\nOptions:\r\n1. View All Products\r\n2. Add Stock\r\n3. Sell Product\r\n4. Check Product Quantity\r\n5. Exit");
+            //    string option = Console.ReadLine();
+
+            //    if (option == "1")
+            //    {
+            //        for (int i = 0; i < product.Length; i++)
+            //        {
+            //            Console.WriteLine(product[i]);
+            //        }
+            //    }else if (option == "2")
+            //    {
+            //        Console.WriteLine("Enter product name: ");
+            //        target = Console.ReadLine();
+            //        Console.WriteLine("Enter product quantity: ");
+            //        uquantity = Convert.ToInt32(Console.ReadLine());
+
+            //        for (int i = 0; i < product.Length; i++)
+            //        {
+            //            if (product[i] == target)
+            //            {
+            //                quantity[i] += uquantity;
+            //            }
+            //        }
+            //    }
+            //    else if (option == "3")
+            //    {
+            //        Console.WriteLine("Enter product name: ");
+            //        target = Console.ReadLine();
+            //        Console.WriteLine("Enter product quantity: ");
+            //        uquantity = Convert.ToInt32(Console.ReadLine());
+
+            //        for (int i = 0; i < product.Length; i++)
+            //        {
+            //            if (product[i] == target)
+            //            {
+            //                quantity[i] -= uquantity;
+            //            }
+            //        }
+            //    }
+            //    else if (option == "4")
+            //    {
+            //        Console.WriteLine("Enter product name: ");
+            //        target = Console.ReadLine();
+
+            //        for (int i = 0; i < product.Length; i++)
+            //        {
+            //            if (product[i] == target)
+            //            {
+            //                Console.WriteLine(quantity[i]);
+            //            }
+                        
+            //        }
+            //    }
+            //    else
+            //    {
+            //        quit = false;
+            //    }
+
                 
-            }
-            else if (coffee_input == "2")
-            {
-                name = "Latte";
-            }
-            else
-            {
-                name = "Cappuccino";
-            }
-            result += name;
 
-            Console.Write("\nWhich size would you like? (1-3): ");
-            string size_input = Console.ReadLine();
+            //}
 
-            if (size_input == "1")
-            {
-                size = "S";
-            }
-            else if (size_input == "2")
-            {
-                size = "M";
-            }
-            else
-            {
-                size = "L";
-            }
-            result += " ("+size+") size ";
 
-            Console.Write("\nDo you want sugar? (yes/no): ");
-            Sugar = Console.ReadLine();
-
-            if (Sugar.ToLower() == "yes")
-            {
-                result += "with sugar ";
-            }
-
-            Console.Write("\nDo you want milk? (yes/no): ");
-            Milk = Console.ReadLine();
-
-            if (Milk.ToLower() == "yes")
-            {
-                result += "and milk ";
-            }
-            return result;
         }
-        public double calculate_cost()
-        {
-            if(name== "Americano")
-            {
-                price = 2.5;
-            }
-            else if(name== "Latte")
-            {
-                price = 3.0;
-            }
-            else
-            {
-                price = 3.5;
-            }
+    }
 
-            if (size == "L")
-            {
-                price += 1.5;
-            }
-            else if (size == "M")
-            {
-                price += 1.0;
-            }
-            else
-            {
-                price += 0.5;
-            }
-            return price;
-        }
-        public void display_order_summary()
-        {
-            Console.Write("\nYour Order Summary: " + place_order() + " \n Total Cost: " + calculate_cost() + "\n Thank you for ordering!");
-        }
+    //public class Rectangle
+    //{
+
+    //    public int width;
+    //    public int height;
+    //    public string color;
+
+    //    public Rectangle(int width, int height, string color)
+    //    {
+    //        this.width = width;
+    //        this.height = height;
+    //        this.color = color;
+    //    }
+    //    public void area()
+    //    {
+    //        Console.WriteLine( width * height);
+            
+    //    }
+        
+    //    public void getInfo()
+    //    {
+    //        Console.WriteLine("this a "+color+ " Rectangle");
+    //    }
+    //}
+
+    //public interface Ipay
+    //{
+    //    public bool pay();
+    //}
+    //class Coffee
+    //{
+    //    public string name { get; set; }
+    //    public string size { get; set; }
+    //    public double price { get; set; }
+    //    public string Milk { get; set; }
+    //    public string Sugar { get; set; }
+
+    //    public Coffee()
+    //    {
+            
+    //    }
 
         
-    }
+
+    //    public void display_menu()
+    //    {
+    //        Console.Write("Welcome to the Coffee Shop \n Menu: \n 1.Americano - 2.50 \n 2.Latte - 3.00 \n 3.Cappuccino - 3.50 \n ");
+    //        Console.Write("\nCustomizations: \n 1.Small - 0.50\n 2.Medium - 1.00 \n 3.Large - 1.50\n  ");
+    //    }
+    //    public string place_order()
+    //    {
+    //        string result = "";
+
+    //        Console.Write("\nWhich Coffee do you want? (1-3): ");
+    //        string coffee_input = Console.ReadLine();
+
+    //        if (coffee_input == "1")
+    //        {
+    //            name = "Americano";
+                
+    //        }
+    //        else if (coffee_input == "2")
+    //        {
+    //            name = "Latte";
+    //        }
+    //        else
+    //        {
+    //            name = "Cappuccino";
+    //        }
+    //        result += name;
+
+    //        Console.Write("\nWhich size would you like? (1-3): ");
+    //        string size_input = Console.ReadLine();
+
+    //        if (size_input == "1")
+    //        {
+    //            size = "S";
+    //        }
+    //        else if (size_input == "2")
+    //        {
+    //            size = "M";
+    //        }
+    //        else
+    //        {
+    //            size = "L";
+    //        }
+    //        result += " ("+size+") size ";
+
+    //        Console.Write("\nDo you want sugar? (yes/no): ");
+    //        Sugar = Console.ReadLine();
+
+    //        if (Sugar.ToLower() == "yes")
+    //        {
+    //            result += "with sugar ";
+    //        }
+
+    //        Console.Write("\nDo you want milk? (yes/no): ");
+    //        Milk = Console.ReadLine();
+
+    //        if (Milk.ToLower() == "yes")
+    //        {
+    //            result += "and milk ";
+    //        }
+    //        return result;
+    //    }
+    //    public double calculate_cost()
+    //    {
+    //        if(name== "Americano")
+    //        {
+    //            price = 2.5;
+    //        }
+    //        else if(name== "Latte")
+    //        {
+    //            price = 3.0;
+    //        }
+    //        else
+    //        {
+    //            price = 3.5;
+    //        }
+
+    //        if (size == "L")
+    //        {
+    //            price += 1.5;
+    //        }
+    //        else if (size == "M")
+    //        {
+    //            price += 1.0;
+    //        }
+    //        else
+    //        {
+    //            price += 0.5;
+    //        }
+    //        return price;
+    //    }
+    //    public void display_order_summary()
+    //    {
+    //        Console.Write("\nYour Order Summary: " + place_order() + " \n Total Cost: " + calculate_cost() + "\n Thank you for ordering!");
+    //    }
+
+        
+    //}
 }

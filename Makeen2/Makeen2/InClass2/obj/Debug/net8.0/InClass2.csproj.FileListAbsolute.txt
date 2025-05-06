@@ -1,0 +1,15 @@
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\bin\Debug\net8.0\InClass2.exe
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\bin\Debug\net8.0\InClass2.deps.json
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\bin\Debug\net8.0\InClass2.runtimeconfig.json
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\bin\Debug\net8.0\InClass2.dll
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\bin\Debug\net8.0\InClass2.pdb
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\obj\Debug\net8.0\InClass2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\obj\Debug\net8.0\InClass2.AssemblyInfoInputs.cache
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\obj\Debug\net8.0\InClass2.AssemblyInfo.cs
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\obj\Debug\net8.0\InClass2.csproj.CoreCompileInputs.cache
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\obj\Debug\net8.0\InClass2.sourcelink.json
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\obj\Debug\net8.0\InClass2.dll
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\obj\Debug\net8.0\refint\InClass2.dll
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\obj\Debug\net8.0\InClass2.pdb
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\obj\Debug\net8.0\InClass2.genruntimeconfig.cache
+D:\Web projects\Makeen2\Makeen2\Makeen2\InClass2\obj\Debug\net8.0\ref\InClass2.dll

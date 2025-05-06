@@ -1,0 +1,15 @@
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\bin\Debug\net8.0\Assignment2.exe
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\bin\Debug\net8.0\Assignment2.dll
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\obj\Debug\net8.0\Assignment2.sourcelink.json
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\obj\Debug\net8.0\Assignment2.dll
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+D:\Web projects\Makeen2\Assignment\Assignment\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll

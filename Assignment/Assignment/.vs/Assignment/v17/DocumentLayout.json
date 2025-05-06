@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1DD58D-0B9C-48E7-8E46-381F346739C7}|Functional7\\Functional7.csproj|d:\\web projects\\makeen2\\assignment\\assignment\\functional7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1DD58D-0B9C-48E7-8E46-381F346739C7}|Functional7\\Functional7.csproj|solutionrelative:functional7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D050B6-770B-4952-8CCB-35750928C40D}|Functional8\\Functional8.csproj|d:\\web projects\\makeen2\\assignment\\assignment\\functional8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D050B6-770B-4952-8CCB-35750928C40D}|Functional8\\Functional8.csproj|solutionrelative:functional8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFF4099-1CB1-40F7-AA66-C1A47E57FA9A}|Test\\Test.csproj|d:\\web projects\\makeen2\\assignment\\assignment\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFF4099-1CB1-40F7-AA66-C1A47E57FA9A}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Functional7\\Program.cs",
+              "RelativeDocumentMoniker": "Functional7\\Program.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Functional7\\Program.cs",
+              "RelativeToolTip": "Functional7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:38:57.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Functional8\\Program.cs",
+              "RelativeDocumentMoniker": "Functional8\\Program.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Functional8\\Program.cs",
+              "RelativeToolTip": "Functional8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:38:55.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:38:48.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
