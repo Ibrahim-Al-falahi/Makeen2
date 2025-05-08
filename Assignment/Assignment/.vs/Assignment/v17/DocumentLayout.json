@@ -1,12 +1,149 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|d:\\web projects\\makeen2\\assignment\\assignment\\oop3\\smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|solutionrelative:oop3\\smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|solutionrelative:oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oop3\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|solutionrelative:oop3\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oop3\\ac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|solutionrelative:oop3\\ac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oop3\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|solutionrelative:oop3\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oop3\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|solutionrelative:oop3\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oop3\\ismartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|solutionrelative:oop3\\ismartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oop3\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEBD741-1B16-4907-9C5C-43E7ED74C667}|OOP3\\OOP3.csproj|solutionrelative:oop3\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartHome.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\SmartHome.cs",
+              "RelativeDocumentMoniker": "OOP3\\SmartHome.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\SmartHome.cs",
+              "RelativeToolTip": "OOP3\\SmartHome.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:27:21.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Heater.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\Heater.cs",
+              "RelativeDocumentMoniker": "OOP3\\Heater.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\Heater.cs",
+              "RelativeToolTip": "OOP3\\Heater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:25:29.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AC.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\AC.cs",
+              "RelativeDocumentMoniker": "OOP3\\AC.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\AC.cs",
+              "RelativeToolTip": "OOP3\\AC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:24:35.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fan.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\Fan.cs",
+              "RelativeDocumentMoniker": "OOP3\\Fan.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\Fan.cs",
+              "RelativeToolTip": "OOP3\\Fan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:23:32.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Light.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\Light.cs",
+              "RelativeDocumentMoniker": "OOP3\\Light.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\Light.cs",
+              "RelativeToolTip": "OOP3\\Light.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:21:49.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISmartDevice.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\ISmartDevice.cs",
+              "RelativeDocumentMoniker": "OOP3\\ISmartDevice.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\ISmartDevice.cs",
+              "RelativeToolTip": "OOP3\\ISmartDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:21:23.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeviceType.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\DeviceType.cs",
+              "RelativeDocumentMoniker": "OOP3\\DeviceType.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\DeviceType.cs",
+              "RelativeToolTip": "OOP3\\DeviceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:20:53.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\Program.cs",
+              "RelativeDocumentMoniker": "OOP3\\Program.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP3\\Program.cs",
+              "RelativeToolTip": "OOP3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:19:18.126Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

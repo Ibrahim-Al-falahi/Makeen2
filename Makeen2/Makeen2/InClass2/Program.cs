@@ -40,7 +40,9 @@ namespace InClass2
             //}
 
 
-            //PhoneBook p = new PhoneBook(5);
+            PhoneBook p = new PhoneBook(5);
+            p[0, "yas"] = 96665;
+            Console.WriteLine(p[0,"yas"]);
             //p.AddEntry(0, "Majan", 99223355);
             //p.AddEntry(1, "Mazoon", 77116633);
 

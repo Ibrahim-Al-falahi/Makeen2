@@ -39,7 +39,6 @@ namespace InClass2.Models
                 this.name[index]=s;
                 number[index] = value;
 
-
             }
          }
 
