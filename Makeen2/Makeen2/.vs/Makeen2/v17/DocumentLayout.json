@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E336308-75B4-4AF8-B7A0-9418C0B5868E}|InClass4\\InClass4.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\inclass4\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E336308-75B4-4AF8-B7A0-9418C0B5868E}|InClass4\\InClass4.csproj|solutionrelative:inclass4\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E336308-75B4-4AF8-B7A0-9418C0B5868E}|InClass4\\InClass4.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\inclass4\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E336308-75B4-4AF8-B7A0-9418C0B5868E}|InClass4\\InClass4.csproj|solutionrelative:inclass4\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E336308-75B4-4AF8-B7A0-9418C0B5868E}|InClass4\\InClass4.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\inclass4\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E336308-75B4-4AF8-B7A0-9418C0B5868E}|InClass4\\InClass4.csproj|solutionrelative:inclass4\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3F71859-75C2-4750-BF06-98EA11E67607}|Day7\\Day7.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F71859-75C2-4750-BF06-98EA11E67607}|Day7\\Day7.csproj|solutionrelative:day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TaskList.cs",
-              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\InClass4\\TaskList.cs",
-              "RelativeDocumentMoniker": "InClass4\\TaskList.cs",
-              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\InClass4\\TaskList.cs",
-              "RelativeToolTip": "InClass4\\TaskList.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Day7\\Program.cs",
+              "RelativeDocumentMoniker": "Day7\\Program.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Day7\\Program.cs",
+              "RelativeToolTip": "Day7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T04:45:36.4Z",
+              "WhenOpened": "2025-05-10T15:18:05.945Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Task.cs",
-              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\InClass4\\Task.cs",
-              "RelativeDocumentMoniker": "InClass4\\Task.cs",
-              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\InClass4\\Task.cs",
-              "RelativeToolTip": "InClass4\\Task.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:52:23.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskPriority.cs",
-              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\InClass4\\TaskPriority.cs",
-              "RelativeDocumentMoniker": "InClass4\\TaskPriority.cs",
-              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\InClass4\\TaskPriority.cs",
-              "RelativeToolTip": "InClass4\\TaskPriority.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T18:52:20.773Z"
             }
           ]
         }
