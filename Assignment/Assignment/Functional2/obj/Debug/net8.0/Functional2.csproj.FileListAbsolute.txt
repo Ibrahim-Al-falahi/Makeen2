@@ -1,0 +1,15 @@
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\bin\Debug\net8.0\Functional2.exe
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\bin\Debug\net8.0\Functional2.deps.json
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\bin\Debug\net8.0\Functional2.runtimeconfig.json
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\bin\Debug\net8.0\Functional2.dll
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\bin\Debug\net8.0\Functional2.pdb
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\obj\Debug\net8.0\Functional2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\obj\Debug\net8.0\Functional2.AssemblyInfoInputs.cache
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\obj\Debug\net8.0\Functional2.AssemblyInfo.cs
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\obj\Debug\net8.0\Functional2.csproj.CoreCompileInputs.cache
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\obj\Debug\net8.0\Functional2.sourcelink.json
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\obj\Debug\net8.0\Functional2.dll
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\obj\Debug\net8.0\refint\Functional2.dll
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\obj\Debug\net8.0\Functional2.pdb
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\obj\Debug\net8.0\Functional2.genruntimeconfig.cache
+D:\Web projects\Makeen2\Assignment\Assignment\Functional2\obj\Debug\net8.0\ref\Functional2.dll

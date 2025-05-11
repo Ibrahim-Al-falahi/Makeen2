@@ -1,0 +1,15 @@
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\bin\Debug\net8.0\OOP3.exe
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\bin\Debug\net8.0\OOP3.deps.json
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\bin\Debug\net8.0\OOP3.runtimeconfig.json
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\bin\Debug\net8.0\OOP3.dll
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\bin\Debug\net8.0\OOP3.pdb
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\obj\Debug\net8.0\OOP3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\obj\Debug\net8.0\OOP3.AssemblyInfoInputs.cache
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\obj\Debug\net8.0\OOP3.AssemblyInfo.cs
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\obj\Debug\net8.0\OOP3.csproj.CoreCompileInputs.cache
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\obj\Debug\net8.0\OOP3.sourcelink.json
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\obj\Debug\net8.0\OOP3.dll
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\obj\Debug\net8.0\refint\OOP3.dll
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\obj\Debug\net8.0\OOP3.pdb
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\obj\Debug\net8.0\OOP3.genruntimeconfig.cache
+D:\Web projects\Makeen2\Assignment\Assignment\OOP3\obj\Debug\net8.0\ref\OOP3.dll
