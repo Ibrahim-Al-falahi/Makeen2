@@ -1,12 +1,137 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oman clinic appointment system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oman clinic appointment system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oman clinic appointment system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|d:\\web projects\\makeen2\\assignment\\assignment\\oman clinic appointment system\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|d:\\web projects\\makeen2\\assignment\\assignment\\oman clinic appointment system\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oman clinic appointment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|D:\\Web projects\\Makeen2\\Assignment\\Assignment\\oman clinic appointment system\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Models\\Person.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Person.cs",
+              "RelativeToolTip": "Oman Clinic Appointment System\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:49:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Oman Clinic Appointment System\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:42:51.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Models\\Hospital.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Hospital.cs",
+              "RelativeToolTip": "Oman Clinic Appointment System\\Models\\Hospital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:22:35.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Models\\Appointment.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Appointment.cs",
+              "RelativeToolTip": "Oman Clinic Appointment System\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:22:20.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Models\\Doctor.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Doctor.cs",
+              "RelativeToolTip": "Oman Clinic Appointment System\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:21:56.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Models\\Patient.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Patient.cs",
+              "RelativeToolTip": "Oman Clinic Appointment System\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:21:46.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Program.cs",
+              "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Program.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Oman Clinic Appointment System\\Program.cs",
+              "RelativeToolTip": "Oman Clinic Appointment System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:21:13.587Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

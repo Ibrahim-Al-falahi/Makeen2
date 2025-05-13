@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\codeacademyshop\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\codeacademyshop\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\model\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\model\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\codeacademyshop\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\model\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Configuration\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "CodeAcademyShop\\Configuration\\ProductConfiguration.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CodeAcademyShop\\Context\\ApplicationDbContext.cs",
@@ -64,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Catagory.cs",
               "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Catagory.cs",
               "RelativeDocumentMoniker": "CodeAcademyShop\\Model\\Catagory.cs",
               "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Catagory.cs",
               "RelativeToolTip": "CodeAcademyShop\\Model\\Catagory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T08:04:02.519Z",
               "EditorCaption": ""
@@ -85,25 +85,24 @@
               "RelativeToolTip": "CodeAcademyShop\\Model\\Tag.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:04:43.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:04:43.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Product.cs",
               "RelativeDocumentMoniker": "CodeAcademyShop\\Model\\Product.cs",
               "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Product.cs",
               "RelativeToolTip": "CodeAcademyShop\\Model\\Product.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAwAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T06:01:20.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Program.cs",
               "RelativeDocumentMoniker": "CodeAcademyShop\\Program.cs",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "CodeAcademyShop\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T05:59:45.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T05:59:45.201Z"
             }
           ]
         }
