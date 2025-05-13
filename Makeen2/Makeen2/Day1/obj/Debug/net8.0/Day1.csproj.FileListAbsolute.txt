@@ -1,0 +1,15 @@
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\bin\Debug\net8.0\Day1.exe
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\bin\Debug\net8.0\Day1.deps.json
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\bin\Debug\net8.0\Day1.runtimeconfig.json
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\bin\Debug\net8.0\Day1.dll
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\bin\Debug\net8.0\Day1.pdb
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\obj\Debug\net8.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\obj\Debug\net8.0\Day1.AssemblyInfoInputs.cache
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\obj\Debug\net8.0\Day1.AssemblyInfo.cs
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\obj\Debug\net8.0\Day1.csproj.CoreCompileInputs.cache
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\obj\Debug\net8.0\Day1.sourcelink.json
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\obj\Debug\net8.0\Day1.dll
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\obj\Debug\net8.0\refint\Day1.dll
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\obj\Debug\net8.0\Day1.pdb
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\obj\Debug\net8.0\Day1.genruntimeconfig.cache
+D:\Web projects\Makeen2\Makeen2\Makeen2\Day1\obj\Debug\net8.0\ref\Day1.dll

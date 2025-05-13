@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InClass3", "InClass3\InClas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InClass4", "InClass4\InClass4.csproj", "{3E336308-75B4-4AF8-B7A0-9418C0B5868E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7", "Day7\Day7.csproj", "{F3F71859-75C2-4750-BF06-98EA11E67607}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day7", "Day7\Day7.csproj", "{F3F71859-75C2-4750-BF06-98EA11E67607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAcademyShop", "CodeAcademyShop\CodeAcademyShop.csproj", "{8462C55B-3931-4A89-BBC0-7C7AF06C5530}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{F3F71859-75C2-4750-BF06-98EA11E67607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3F71859-75C2-4750-BF06-98EA11E67607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3F71859-75C2-4750-BF06-98EA11E67607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8462C55B-3931-4A89-BBC0-7C7AF06C5530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8462C55B-3931-4A89-BBC0-7C7AF06C5530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8462C55B-3931-4A89-BBC0-7C7AF06C5530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8462C55B-3931-4A89-BBC0-7C7AF06C5530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

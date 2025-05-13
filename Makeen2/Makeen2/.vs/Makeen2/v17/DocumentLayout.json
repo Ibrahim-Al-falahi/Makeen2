@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3F71859-75C2-4750-BF06-98EA11E67607}|Day7\\Day7.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3F71859-75C2-4750-BF06-98EA11E67607}|Day7\\Day7.csproj|solutionrelative:day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\codeacademyshop\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\codeacademyshop\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\model\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\model\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\model\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\model\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Day7\\Program.cs",
-              "RelativeDocumentMoniker": "Day7\\Program.cs",
-              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\Day7\\Program.cs",
-              "RelativeToolTip": "Day7\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CodeAcademyShop\\Configuration\\ProductConfiguration.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "CodeAcademyShop\\Configuration\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T15:18:05.945Z",
+              "WhenOpened": "2025-05-13T10:14:03.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CodeAcademyShop\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CodeAcademyShop\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:00:50.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Catagory.cs",
+              "RelativeDocumentMoniker": "CodeAcademyShop\\Model\\Catagory.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Catagory.cs",
+              "RelativeToolTip": "CodeAcademyShop\\Model\\Catagory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:04:02.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Tag.cs",
+              "RelativeDocumentMoniker": "CodeAcademyShop\\Model\\Tag.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Tag.cs",
+              "RelativeToolTip": "CodeAcademyShop\\Model\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:04:43.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "CodeAcademyShop\\Model\\Product.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Product.cs",
+              "RelativeToolTip": "CodeAcademyShop\\Model\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:01:20.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Program.cs",
+              "RelativeDocumentMoniker": "CodeAcademyShop\\Program.cs",
+              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Program.cs",
+              "RelativeToolTip": "CodeAcademyShop\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:59:45.201Z",
               "EditorCaption": ""
             }
           ]

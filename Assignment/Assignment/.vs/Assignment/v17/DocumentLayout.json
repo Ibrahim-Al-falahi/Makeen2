@@ -1,88 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8D87A1A9-A6D9-44C2-929E-426E85309888}|Entity FrameWork Assignment\\Entity FrameWork Assignment.csproj|d:\\web projects\\makeen2\\assignment\\assignment\\entity framework assignment\\model\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D87A1A9-A6D9-44C2-929E-426E85309888}|Entity FrameWork Assignment\\Entity FrameWork Assignment.csproj|solutionrelative:entity framework assignment\\model\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D87A1A9-A6D9-44C2-929E-426E85309888}|Entity FrameWork Assignment\\Entity FrameWork Assignment.csproj|d:\\web projects\\makeen2\\assignment\\assignment\\entity framework assignment\\model\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D87A1A9-A6D9-44C2-929E-426E85309888}|Entity FrameWork Assignment\\Entity FrameWork Assignment.csproj|solutionrelative:entity framework assignment\\model\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D87A1A9-A6D9-44C2-929E-426E85309888}|Entity FrameWork Assignment\\Entity FrameWork Assignment.csproj|d:\\web projects\\makeen2\\assignment\\assignment\\entity framework assignment\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D87A1A9-A6D9-44C2-929E-426E85309888}|Entity FrameWork Assignment\\Entity FrameWork Assignment.csproj|solutionrelative:entity framework assignment\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D87A1A9-A6D9-44C2-929E-426E85309888}|Entity FrameWork Assignment\\Entity FrameWork Assignment.csproj|d:\\web projects\\makeen2\\assignment\\assignment\\entity framework assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D87A1A9-A6D9-44C2-929E-426E85309888}|Entity FrameWork Assignment\\Entity FrameWork Assignment.csproj|solutionrelative:entity framework assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Checkpoint.cs",
-              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Entity FrameWork Assignment\\Model\\Checkpoint.cs",
-              "RelativeDocumentMoniker": "Entity FrameWork Assignment\\Model\\Checkpoint.cs",
-              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Entity FrameWork Assignment\\Model\\Checkpoint.cs",
-              "RelativeToolTip": "Entity FrameWork Assignment\\Model\\Checkpoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T16:51:03.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Gate.cs",
-              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Entity FrameWork Assignment\\Model\\Gate.cs",
-              "RelativeDocumentMoniker": "Entity FrameWork Assignment\\Model\\Gate.cs",
-              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Entity FrameWork Assignment\\Model\\Gate.cs",
-              "RelativeToolTip": "Entity FrameWork Assignment\\Model\\Gate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T16:49:50.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Entity FrameWork Assignment\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Entity FrameWork Assignment\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Entity FrameWork Assignment\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Entity FrameWork Assignment\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:32:28.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Entity FrameWork Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "Entity FrameWork Assignment\\Program.cs",
-              "ToolTip": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\Entity FrameWork Assignment\\Program.cs",
-              "RelativeToolTip": "Entity FrameWork Assignment\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:22:28.012Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
