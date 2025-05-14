@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\codeacademyshop\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\model\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\model\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|d:\\web projects\\makeen2\\makeen2\\makeen2\\codeacademyshop\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|solutionrelative:codeacademyshop\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8462C55B-3931-4A89-BBC0-7C7AF06C5530}|CodeAcademyShop\\CodeAcademyShop.csproj|D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\codeacademyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,37 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Configuration\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "CodeAcademyShop\\Configuration\\ProductConfiguration.cs",
-              "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Configuration\\ProductConfiguration.cs",
-              "RelativeToolTip": "CodeAcademyShop\\Configuration\\ProductConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T10:14:03.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CodeAcademyShop\\Context\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "CodeAcademyShop\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAABIAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T08:00:50.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Catagory.cs",
               "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Catagory.cs",
               "RelativeDocumentMoniker": "CodeAcademyShop\\Model\\Catagory.cs",
@@ -72,12 +55,11 @@
               "RelativeToolTip": "CodeAcademyShop\\Model\\Catagory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:04:02.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:04:02.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Tag.cs",
               "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Tag.cs",
               "RelativeDocumentMoniker": "CodeAcademyShop\\Model\\Tag.cs",
@@ -89,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Model\\Product.cs",
               "RelativeDocumentMoniker": "CodeAcademyShop\\Model\\Product.cs",
@@ -102,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Web projects\\Makeen2\\Makeen2\\Makeen2\\CodeAcademyShop\\Program.cs",
               "RelativeDocumentMoniker": "CodeAcademyShop\\Program.cs",

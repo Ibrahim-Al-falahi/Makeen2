@@ -21,5 +21,7 @@ namespace CodeAcademyShop.Configuration
             builder.Property(p=>p.Quantity).HasMaxLength(150);
             
         }
+
+        
     }
 }

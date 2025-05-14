@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oman Clinic Appointment System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beee8e2e1a9bad72ff2c9e3a7c278b2254887b6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2fbc6832b5bc4ea9ca61f6ed8e2b16c138e9791")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oman Clinic Appointment System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oman Clinic Appointment System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

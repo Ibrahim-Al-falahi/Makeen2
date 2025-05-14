@@ -30,5 +30,9 @@ namespace CodeAcademyShop.Context
         public DbSet<Product> Product { get; set; }
         public DbSet<Catagory> Catagory { get; set; }
         public DbSet<Tag> Tag { get; set; }
+
+
+        
+
     }
 }
