@@ -13,3 +13,18 @@ D:\Web projects\Makeen2\Assignment\Assignment\Functional7\obj\Debug\net8.0\refin
 D:\Web projects\Makeen2\Assignment\Assignment\Functional7\obj\Debug\net8.0\Functional7.pdb
 D:\Web projects\Makeen2\Assignment\Assignment\Functional7\obj\Debug\net8.0\Functional7.genruntimeconfig.cache
 D:\Web projects\Makeen2\Assignment\Assignment\Functional7\obj\Debug\net8.0\ref\Functional7.dll
+C:\Makeen\Assignment\Assignment\Functional7\bin\Debug\net8.0\Functional7.exe
+C:\Makeen\Assignment\Assignment\Functional7\bin\Debug\net8.0\Functional7.deps.json
+C:\Makeen\Assignment\Assignment\Functional7\bin\Debug\net8.0\Functional7.runtimeconfig.json
+C:\Makeen\Assignment\Assignment\Functional7\bin\Debug\net8.0\Functional7.dll
+C:\Makeen\Assignment\Assignment\Functional7\bin\Debug\net8.0\Functional7.pdb
+C:\Makeen\Assignment\Assignment\Functional7\obj\Debug\net8.0\Functional7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Makeen\Assignment\Assignment\Functional7\obj\Debug\net8.0\Functional7.AssemblyInfoInputs.cache
+C:\Makeen\Assignment\Assignment\Functional7\obj\Debug\net8.0\Functional7.AssemblyInfo.cs
+C:\Makeen\Assignment\Assignment\Functional7\obj\Debug\net8.0\Functional7.csproj.CoreCompileInputs.cache
+C:\Makeen\Assignment\Assignment\Functional7\obj\Debug\net8.0\Functional7.sourcelink.json
+C:\Makeen\Assignment\Assignment\Functional7\obj\Debug\net8.0\Functional7.dll
+C:\Makeen\Assignment\Assignment\Functional7\obj\Debug\net8.0\refint\Functional7.dll
+C:\Makeen\Assignment\Assignment\Functional7\obj\Debug\net8.0\Functional7.pdb
+C:\Makeen\Assignment\Assignment\Functional7\obj\Debug\net8.0\Functional7.genruntimeconfig.cache
+C:\Makeen\Assignment\Assignment\Functional7\obj\Debug\net8.0\ref\Functional7.dll

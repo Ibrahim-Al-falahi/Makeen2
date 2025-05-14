@@ -8,5 +8,6 @@ namespace Oman_Clinic_Appointment_System.Models
 {
     internal class Hospital
     {
+        
     }
 }

@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP2\\OOP2.csproj": {}
+    "C:\\Makeen\\Assignment\\Assignment\\OOP2\\OOP2.csproj": {}
   },
   "projects": {
-    "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP2\\OOP2.csproj": {
+    "C:\\Makeen\\Assignment\\Assignment\\OOP2\\OOP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP2\\OOP2.csproj",
+        "projectUniqueName": "C:\\Makeen\\Assignment\\Assignment\\OOP2\\OOP2.csproj",
         "projectName": "OOP2",
-        "projectPath": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP2\\OOP2.csproj",
-        "packagesPath": "C:\\Users\\Mr Alfa X\\.nuget\\packages\\",
-        "outputPath": "D:\\Web projects\\Makeen2\\Assignment\\Assignment\\OOP2\\obj\\",
+        "projectPath": "C:\\Makeen\\Assignment\\Assignment\\OOP2\\OOP2.csproj",
+        "packagesPath": "C:\\Users\\user pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Makeen\\Assignment\\Assignment\\OOP2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mr Alfa X\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -63,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

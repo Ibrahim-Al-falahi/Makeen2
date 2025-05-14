@@ -1,10 +1,14 @@
-﻿namespace Oman_Clinic_Appointment_System
+﻿using Oman_Clinic_Appointment_System.Context;
+
+namespace Oman_Clinic_Appointment_System
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            using ApplicationDbContext db = new ApplicationDbContext();
+
+
         }
     }
 }
