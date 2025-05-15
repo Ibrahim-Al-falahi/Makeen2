@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|c:\\makeen\\assignment\\assignment\\oman clinic appointment system\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|c:\\makeen\\assignment\\assignment\\oman clinic appointment system\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|c:\\makeen\\assignment\\assignment\\oman clinic appointment system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|c:\\makeen\\assignment\\assignment\\oman clinic appointment system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|c:\\makeen\\assignment\\assignment\\oman clinic appointment system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|c:\\makeen\\assignment\\assignment\\oman clinic appointment system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|c:\\makeen\\assignment\\assignment\\oman clinic appointment system\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|c:\\makeen\\assignment\\assignment\\oman clinic appointment system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825DBD20-2764-4D8F-B2D9-991BEA435AB5}|Oman Clinic Appointment System\\Oman Clinic Appointment System.csproj|solutionrelative:oman clinic appointment system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Makeen\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Models\\Person.cs",
@@ -50,23 +50,25 @@
               "RelativeToolTip": "Oman Clinic Appointment System\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T17:49:26.787Z"
+              "WhenOpened": "2025-05-13T17:49:26.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Makeen\\Assignment\\Assignment\\Oman Clinic Appointment System\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Context\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Makeen\\Assignment\\Assignment\\Oman Clinic Appointment System\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "Oman Clinic Appointment System\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:42:51.046Z"
+              "WhenOpened": "2025-05-13T11:42:51.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Hospital.cs",
               "DocumentMoniker": "C:\\Makeen\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Hospital.cs",
               "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Models\\Hospital.cs",
@@ -74,12 +76,11 @@
               "RelativeToolTip": "Oman Clinic Appointment System\\Models\\Hospital.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:22:35.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T11:22:35.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Makeen\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Models\\Appointment.cs",
@@ -91,27 +92,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Makeen\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Models\\Doctor.cs",
               "ToolTip": "C:\\Makeen\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Doctor.cs",
               "RelativeToolTip": "Oman Clinic Appointment System\\Models\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:21:56.924Z"
+              "WhenOpened": "2025-05-13T11:21:56.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Makeen\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Models\\Patient.cs",
               "ToolTip": "C:\\Makeen\\Assignment\\Assignment\\Oman Clinic Appointment System\\Models\\Patient.cs",
               "RelativeToolTip": "Oman Clinic Appointment System\\Models\\Patient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:21:46.341Z"
+              "WhenOpened": "2025-05-13T11:21:46.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -121,7 +124,7 @@
               "RelativeDocumentMoniker": "Oman Clinic Appointment System\\Program.cs",
               "ToolTip": "C:\\Makeen\\Assignment\\Assignment\\Oman Clinic Appointment System\\Program.cs",
               "RelativeToolTip": "Oman Clinic Appointment System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwDwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T11:21:13.587Z",
               "EditorCaption": ""

@@ -71,7 +71,7 @@ namespace Oman_Clinic_Appointment_System.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Person");
+                    b.ToTable("Person", (string)null);
 
                     b.UseTpcMappingStrategy();
                 });
