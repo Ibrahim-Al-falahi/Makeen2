@@ -59,6 +59,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity FrameWork Assignment
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oman Clinic Appointment System", "Oman Clinic Appointment System\Oman Clinic Appointment System.csproj", "{825DBD20-2764-4D8F-B2D9-991BEA435AB5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recap", "Recap", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic", "basic\basic.csproj", "{B6E4AFEE-952D-4B0A-9BBC-77BB17E634A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +165,10 @@ Global
 		{825DBD20-2764-4D8F-B2D9-991BEA435AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{825DBD20-2764-4D8F-B2D9-991BEA435AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{825DBD20-2764-4D8F-B2D9-991BEA435AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E4AFEE-952D-4B0A-9BBC-77BB17E634A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E4AFEE-952D-4B0A-9BBC-77BB17E634A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E4AFEE-952D-4B0A-9BBC-77BB17E634A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E4AFEE-952D-4B0A-9BBC-77BB17E634A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -188,6 +196,7 @@ Global
 		{76242FFA-D40E-4BCC-980C-793609614057} = {E76B8049-F6D9-45CC-A961-D91AF998E2BB}
 		{33DB9A87-6DCA-40AB-A1E9-A0D21E921D56} = {E76B8049-F6D9-45CC-A961-D91AF998E2BB}
 		{8D87A1A9-A6D9-44C2-929E-426E85309888} = {771D7C16-7BBF-4E7D-83BD-A9253A7BCC6D}
+		{B6E4AFEE-952D-4B0A-9BBC-77BB17E634A6} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D21EE4DB-67AA-4845-8824-A313603CC0C0}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Entity FrameWork Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06baada9675f75cf01653425f69211f6e3bc2d80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeba6e49dc31b101b261912fa80c5f763d4beaf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Entity FrameWork Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Entity FrameWork Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
