@@ -410,7 +410,7 @@ namespace Test
             //            {
             //                Console.WriteLine(quantity[i]);
             //            }
-                        
+
             //        }
             //    }
             //    else
@@ -418,9 +418,27 @@ namespace Test
             //        quit = false;
             //    }
 
-                
+
 
             //}
+
+            //int x = 2147395600;
+            //int i = 0;
+
+            //    while (i * i <= x)
+            //    {
+            //        i++;
+            //    Console.WriteLine(i+" sqr: "+ Math.Pow(i, 2));
+            //    }
+            //Console.WriteLine(i - 1); 
+
+            List<char> Nodes = new List<char> { 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H' };
+            Nodes.Reverse();
+            foreach (var item in Nodes)
+            {
+                Console.WriteLine(item);
+            }
+
 
 
         }

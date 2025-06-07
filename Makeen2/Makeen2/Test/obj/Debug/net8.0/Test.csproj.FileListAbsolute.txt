@@ -13,3 +13,18 @@ D:\Web projects\Makeen2\Makeen2\Makeen2\Test\obj\Debug\net8.0\refint\Test.dll
 D:\Web projects\Makeen2\Makeen2\Makeen2\Test\obj\Debug\net8.0\Test.pdb
 D:\Web projects\Makeen2\Makeen2\Makeen2\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
 D:\Web projects\Makeen2\Makeen2\Makeen2\Test\obj\Debug\net8.0\ref\Test.dll
+C:\Makeen\Makeen2\Makeen2\Test\bin\Debug\net8.0\Test.exe
+C:\Makeen\Makeen2\Makeen2\Test\bin\Debug\net8.0\Test.deps.json
+C:\Makeen\Makeen2\Makeen2\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+C:\Makeen\Makeen2\Makeen2\Test\bin\Debug\net8.0\Test.dll
+C:\Makeen\Makeen2\Makeen2\Test\bin\Debug\net8.0\Test.pdb
+C:\Makeen\Makeen2\Makeen2\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Makeen\Makeen2\Makeen2\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+C:\Makeen\Makeen2\Makeen2\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+C:\Makeen\Makeen2\Makeen2\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+C:\Makeen\Makeen2\Makeen2\Test\obj\Debug\net8.0\Test.sourcelink.json
+C:\Makeen\Makeen2\Makeen2\Test\obj\Debug\net8.0\Test.dll
+C:\Makeen\Makeen2\Makeen2\Test\obj\Debug\net8.0\refint\Test.dll
+C:\Makeen\Makeen2\Makeen2\Test\obj\Debug\net8.0\Test.pdb
+C:\Makeen\Makeen2\Makeen2\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+C:\Makeen\Makeen2\Makeen2\Test\obj\Debug\net8.0\ref\Test.dll
